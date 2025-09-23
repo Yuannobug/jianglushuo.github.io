@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "证件照.jpg"
+  name             : "Jiang Lushuo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI"
+  location         : "China Nanjing"
+  employer         : "NJAU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jianglushuo@stu.njau.edu.cn" 
 
   # Academic websites
   academia         : # URL
