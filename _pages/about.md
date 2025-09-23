@@ -14,7 +14,7 @@ I’m Lushuo Jiang, final-year AI undergrad at Nanjing Agricultural University, 
 Papers
 ======
 2025:
-- [PDF](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1616864/full) Lightweight grading method for potato late blight severity based on enhanced YOLOv8-Unet3Plus network(JCR Q1):Second author (student first author)
+- [PDF](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1616864/full) Lightweight grading method for potato late blight severity based on enhanced YOLOv8-Unet3Plus network ( JCR Q1 ) : Second author ( student first author )
 
 Awards
 ======
