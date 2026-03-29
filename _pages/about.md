@@ -19,13 +19,27 @@ Papers
 Awards
 ======
 [1] Outstanding undergraduate graduate of Nanjing Agricultural University in 2026
+
 [2] National Scholarship for Undergraduate Students for the 2022-2023 academic year
+
 [3] First-Class Scholarship for Outstanding Students of Nanjing Agricultural University in 2022-2023 academic year
+
 [4] National Scholarship for Undergraduate Students for the 2023-2024 academic year
+
 [5] First-Class Scholarship for Outstanding Students of Nanjing Agricultural University in 2023-2024 academic year
+
 [6] First-Class Scholarship for Outstanding Students of Nanjing Agricultural University in 2024-2025 academic year
+
 [7] Hundred Aid Scholarship of Nanjing Agricultural University in 2024-2025 academic year
+
 [8] Honored as an Outstanding Student Leader of Nanjing Agricultural University in 2023-2024 academic year
+
 [9] Outstanding Communist Youth League Member of Nanjing Agricultural University in 2024
-[10] Second Prize in the 16th National College Students' Mathematics Competition (Non-Mathematics Category A)
-[11] Second Prize in the Programming University Group of the Jiangsu Region of the 15th Blue Bridge National Software and Information Technology Professional Talent Competition (Cup)
+
+Competition
+======
+[1] Second Prize in the 16th National College Students' Mathematics Competition (Non-Mathematics Category A)
+
+[2] Second Prize in the Programming University Group of the Jiangsu Region of the 15th Blue Bridge National Software and Information Technology Professional Talent Competition (Cup)
+
+[3] The 37th CCF Computer Software Proficiency Certification achieved a score of 325 (ranking in the top 3% overall)
